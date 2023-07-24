@@ -1,6 +1,6 @@
 # To-do List
 
-<a name="readme-top"></a>
+<a name="readme"></a>
 
 <div align="center">
 
